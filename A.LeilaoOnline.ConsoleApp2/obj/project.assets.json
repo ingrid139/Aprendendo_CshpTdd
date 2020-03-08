@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A.LeilaoOnline.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/A.LeilaoOnline.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/A.LeilaoOnline.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A.LeilaoOnline.Core/1.0.0": {
+      "type": "project",
+      "path": "../A.LeilaoOnline.Core/A.LeilaoOnline.Core.csproj",
+      "msbuildProject": "../A.LeilaoOnline.Core/A.LeilaoOnline.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "A.LeilaoOnline.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ingrid Costa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\A.LeilaoOnline\\A.LeilaoOnline.ConsoleApp2\\A.LeilaoOnline.ConsoleApp2.csproj",
+      "projectName": "A.LeilaoOnline.ConsoleApp2",
+      "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\A.LeilaoOnline\\A.LeilaoOnline.ConsoleApp2\\A.LeilaoOnline.ConsoleApp2.csproj",
+      "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\A.LeilaoOnline\\A.LeilaoOnline.ConsoleApp2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Ingrid Costa\\source\\repos\\A.LeilaoOnline\\A.LeilaoOnline.Core\\A.LeilaoOnline.Core.csproj": {
+              "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\A.LeilaoOnline\\A.LeilaoOnline.Core\\A.LeilaoOnline.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

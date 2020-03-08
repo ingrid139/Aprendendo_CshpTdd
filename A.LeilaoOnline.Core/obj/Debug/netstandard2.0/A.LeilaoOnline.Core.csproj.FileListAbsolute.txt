@@ -1,0 +1,8 @@
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\bin\Debug\netstandard2.0\A.LeilaoOnline.Core.deps.json
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\bin\Debug\netstandard2.0\A.LeilaoOnline.Core.dll
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\bin\Debug\netstandard2.0\A.LeilaoOnline.Core.pdb
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\obj\Debug\netstandard2.0\A.LeilaoOnline.Core.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\obj\Debug\netstandard2.0\A.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\obj\Debug\netstandard2.0\A.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\obj\Debug\netstandard2.0\A.LeilaoOnline.Core.dll
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.Core\obj\Debug\netstandard2.0\A.LeilaoOnline.Core.pdb

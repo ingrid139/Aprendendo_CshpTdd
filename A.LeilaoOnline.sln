@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{11D49D89-9356-46E9-9025-B6E9CA4A4DB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DC71B6BF-85D2-4999-9709-03854CDCB43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.LeilaoOnline.Core", "A.LeilaoOnline.Core\A.LeilaoOnline.Core.csproj", "{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.LeilaoOnline.ConsoleApp", "A.LeilaoOnline.ConsoleApp\A.LeilaoOnline.ConsoleApp.csproj", "{FB384ED5-E871-4075-9775-28F2FDC2D2A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.LeilaoOnline.ConsoleApp2", "A.LeilaoOnline.ConsoleApp2\A.LeilaoOnline.ConsoleApp2.csproj", "{E9AA7039-0AE6-457B-9286-B36AF35DDE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.LeilaoOnline.Tests", "A.LeilaoOnline.Tests\A.LeilaoOnline.Tests.csproj", "{347658F1-CC80-4590-B91F-9FE784FB3146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeilaoTestes2", "LeilaoTestes2\LeilaoTestes2.csproj", "{703E0240-7021-4E0D-9001-96429C2A6E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB384ED5-E871-4075-9775-28F2FDC2D2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB384ED5-E871-4075-9775-28F2FDC2D2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB384ED5-E871-4075-9775-28F2FDC2D2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB384ED5-E871-4075-9775-28F2FDC2D2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AA7039-0AE6-457B-9286-B36AF35DDE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AA7039-0AE6-457B-9286-B36AF35DDE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AA7039-0AE6-457B-9286-B36AF35DDE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AA7039-0AE6-457B-9286-B36AF35DDE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347658F1-CC80-4590-B91F-9FE784FB3146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347658F1-CC80-4590-B91F-9FE784FB3146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347658F1-CC80-4590-B91F-9FE784FB3146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347658F1-CC80-4590-B91F-9FE784FB3146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703E0240-7021-4E0D-9001-96429C2A6E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E0240-7021-4E0D-9001-96429C2A6E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E0240-7021-4E0D-9001-96429C2A6E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E0240-7021-4E0D-9001-96429C2A6E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8050BF3-BD87-4BF6-AEB2-36C5006A95EA} = {11D49D89-9356-46E9-9025-B6E9CA4A4DB3}
+		{FB384ED5-E871-4075-9775-28F2FDC2D2A4} = {DC71B6BF-85D2-4999-9709-03854CDCB43D}
+		{E9AA7039-0AE6-457B-9286-B36AF35DDE3A} = {DC71B6BF-85D2-4999-9709-03854CDCB43D}
+		{347658F1-CC80-4590-B91F-9FE784FB3146} = {DC71B6BF-85D2-4999-9709-03854CDCB43D}
+		{703E0240-7021-4E0D-9001-96429C2A6E5A} = {DC71B6BF-85D2-4999-9709-03854CDCB43D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCC1358-F62A-4F2A-9842-EAF5900A6012}
+	EndGlobalSection
+EndGlobal

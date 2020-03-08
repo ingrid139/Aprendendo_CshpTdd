@@ -1,0 +1,14 @@
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.exe
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.dll
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.pdb
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.Core.dll
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\A.LeilaoOnline.Core.pdb
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.dll
+C:\Users\Ingrid Costa\source\repos\A.LeilaoOnline\A.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\A.LeilaoOnline.ConsoleApp.pdb
